@@ -192,4 +192,4 @@ for i in range(args.num_scenes):
                             save_world2cam=True,
                             m2mm = True,
                             append_to_existing_output=True,
-                            frames_per_chunk=60)
+                            frames_per_chunk=1000)
